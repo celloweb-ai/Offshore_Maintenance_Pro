@@ -1,11 +1,23 @@
-# ⚙️ Offshore Maintenance Pro
+<div align="center">
+  <img src="imagens/github-header.png" alt="Offshore Maintenance Pro Banner" width="100%" />
+</div>
 
-> Sistema avançado de geração de planos de manutenção preventiva e checklists técnicos para instrumentação em plataformas offshore, desenvolvido com IA generativa.
+<br/>
+
+<div align="center">
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8.2-blue)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-19.2.4-61dafb)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-6.2.0-646cff)](https://vitejs.dev/)
 [![Gemini AI](https://img.shields.io/badge/Gemini-AI-orange)](https://ai.google.dev/)
+
+</div>
+
+<br/>
+
+> Sistema avançado de geração de planos de manutenção preventiva e checklists técnicos para instrumentação em plataformas offshore, desenvolvido com IA generativa.
+
+---
 
 ## 🎯 Sobre o Projeto
 
@@ -132,6 +144,8 @@ offshore-maintenance-pro/
 │   ├── App.tsx              # Componente principal
 │   ├── index.tsx            # Entry point
 │   └── index.css            # Estilos globais e impressão
+├── imagens/                 # Assets de imagens
+│   └── github-header.png    # Banner do repositório
 ├── index.html               # Template HTML
 ├── vite.config.ts           # Configuração do Vite
 ├── tsconfig.json            # Configuração TypeScript
