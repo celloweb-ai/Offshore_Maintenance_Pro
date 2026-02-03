@@ -1,60 +1,20 @@
-# Offshore Maintenance Pro
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
 
-Sistema avançado para geração de planos de manutenção preventiva e checklists técnicos para instrumentação em plataformas offshore (FPSO/Fixas), em conformidade com NRs brasileiras e normas internacionais.
+# Run and deploy your AI Studio app
 
-## Tecnologias
+This contains everything you need to run your app locally.
 
-- React 19.2.4
-- TypeScript 5.8.2
-- Vite 6.2.0
-- Google Gemini AI
+View your app in AI Studio: https://ai.studio/apps/drive/18KPSVp7PAgfUf6wSw_1qem7ch3VArNkz
 
-## Pré-requisitos
+## Run Locally
 
-- Node.js instalado
+**Prerequisites:**  Node.js
 
-## Instalação
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/celloweb-ai/offshore-maintenance-pro.git
-   cd offshore-maintenance-pro
-   ```
-
-2. Instale as dependências:
-   ```bash
-   npm install
-   ```
-
-3. Configure a chave API do Gemini:
-   - Crie um arquivo `.env.local` na raiz do projeto
-   - Adicione sua chave: `GEMINI_API_KEY=sua_chave_aqui`
-
-4. Execute o projeto:
-   ```bash
-   npm run dev
-   ```
-
-## Build para Produção
-
-```bash
-npm run build
-```
-
-## Pré-visualização
-
-```bash
-npm run preview
-```
-
-## Funcionalidades
-
-- Geração automática de planos de manutenção preventiva
-- Checklists técnicos detalhados para instrumentação
-- Conformidade com NRs brasileiras e normas internacionais
-- Interface intuitiva e responsiva
-- Integração com Google Gemini AI
-
-## Licença
-
-Private - Uso restrito
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
