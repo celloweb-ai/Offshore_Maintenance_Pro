@@ -2,7 +2,7 @@
 import { GoogleGenAI, Type } from "@google/genai";
 import { MaintenancePlan, InstrumentType, PlatformType, UserSettings } from "../types.ts";
 
-const ai = new GoogleGenAI({ apiKey: import.meta.env.VITE_GEMINI_API_KEY });
+const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
 
 const MAINTENANCE_PLAN_SCHEMA = {
   type: Type.OBJECT,
