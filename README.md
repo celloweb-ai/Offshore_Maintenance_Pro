@@ -58,7 +58,7 @@ Treinamento completo de **9 horas** sobre Inteligência Artificial aplicada à i
 
 ---
 
-## 📁 Estrutura de Arquivos
+## 📑 Estrutura de Arquivos
 
 ```
 ├── README.md
@@ -86,6 +86,8 @@ Treinamento completo de **9 horas** sobre Inteligência Artificial aplicada à i
 ## 🚀 Como Usar Este Material
 
 📘 **[Acesse o Plano de Aula Completo](plano-de-aula/PLANO_COMPLETO.md)** - Roteiro detalhado de todas as aulas
+
+🤖 **[Acesse o Assistente de IA](https://aistudio.google.com/apps/drive/18KPSVp7PAgfUf6wSw_1qem7ch3VArNkz?showPreview=true&showAssistant=true&project=infra-inkwell-467223-g4&fullscreenApplet=true)** - Ferramenta interativa para suporte ao treinamento
 
 1. **Instrutores**: Consulte o plano de aula para roteiro detalhado de cada módulo
 2. **Participantes**: Navegue pelos módulos em sequência e realize os exercícios práticos
