@@ -9,6 +9,14 @@
 [![Google GenAI](https://img.shields.io/badge/Google_GenAI-1.39-orange)](https://ai.google.dev/)
 [![License](https://img.shields.io/badge/license-Private-red)]()
 
+## 🌐 Demo ao Vivo
+
+**➡️ [Acesse a aplicação em produção](https://offshore-maintenance-pro.vercel.app/)**
+
+Experimente o sistema completo de geração de planos de manutenção com IA em tempo real.
+
+---
+
 ## 🎯 Visão Geral
 
 O **Offshore Maintenance Pro** é uma aplicação web desenvolvida para automatizar a criação de documentação técnica de manutenção preventiva em plataformas offshore. Utilizando inteligência artificial (Google Gemini), o sistema gera planos detalhados em conformidade com Normas Regulamentadoras brasileiras e padrões internacionais (ISA/IEC).
@@ -173,6 +181,8 @@ O arquivo `types.ts` define interfaces TypeScript para:
 ## 🌐 Deploy
 
 O projeto está configurado para deploy na **Vercel** com otimizações para SPA React.
+
+**Aplicação em Produção**: [https://offshore-maintenance-pro.vercel.app/](https://offshore-maintenance-pro.vercel.app/)
 
 ```bash
 # Deploy via Vercel CLI
