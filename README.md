@@ -15,7 +15,7 @@
 [![Google AI](https://img.shields.io/badge/Google_AI-Gemini_3-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
 [![Vercel](https://img.shields.io/badge/Deploy-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
 
-### 🌐 **[ACESSAR APLICAÇÃO AO VIVO](https://aistudio.google.com/apps/drive/18KPSVp7PAgfUf6wSw_1qem7ch3VArNkz?showPreview=true&showAssistant=true&fullscreenApplet=true/)** 🌐
+### 🌐 **[ACESSAR APLICAÇÃO AO VIVO](https://aistudio.google.com/apps/drive/18KPSVp7PAgfUf6wSw_1qem7ch3VArNkz?showPreview=true&showAssistant=true&fullscreenApplet=true)** 🌐
 
 </div>
 
